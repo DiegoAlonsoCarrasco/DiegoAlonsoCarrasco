@@ -5,7 +5,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás un poco sobre mí y mis i
 ## Acerca de mí ℹ️
 
 - 👨‍💻 Soy un apasionado de la programación y la tecnología.
-- 🎓 Actualmente estoy estudiando Ciclo Superior de Desenvolupamiento de Aplicaciones Web (DAW2)Informática.
+- 🎓 Actualmente estoy estudiando Ciclo Superior de Desenvolupamiento de Aplicaciones Web (DAW2)(Informática).
 - 🌱 Siempre estoy aprendiendo algo nuevo y mejorando mis habilidades.
 - 💬 Me encanta colaborar en proyectos interesantes y aprender de otros desarrolladores.
 
